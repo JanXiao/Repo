@@ -1,8 +1,8 @@
-# JanXiao/packages
+# JanXiao/Repo
 
 An APT source for jailbroken iOS, published with Apelin.
 
-Add `https://JanXiao.github.io/packages/` in Irisin.
+Add `https://JanXiao.github.io/Repo/` in Irisin.
 
 ## How it works
 
